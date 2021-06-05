@@ -1,0 +1,35 @@
+All Blocks --> 30
+when key a is pressed do 
+While True do
+Say Hello! for 2 seconds
+End Forever loop
+End Event
+When GF is clicked do
+Move 10 Steps
+Turn right 15 degrees
+Go to x: 0 , y: 0
+Change x by 10
+Set x to 0
+Change y by 10
+Set y to 0
+Say Hello! for 2 seconds
+Think Hmm... for 2 seconds
+Say Hello!
+Think Hmm...
+Repeat 
+Move 10 Steps
+10 times
+Repeat 
+Turn right 15 degrees
+until my variable > 50
+If my variable > 50 start 
+Move 10 Steps
+Wait for 1 Seconds
+Wait until my variable = 100
+If my variable < 200 then 
+Turn left 15 degrees
+Else
+Turn right 15 degrees
+End if else
+END IF
+End Event
